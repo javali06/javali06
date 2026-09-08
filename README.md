@@ -21,23 +21,6 @@ full-stack development, and real-world problem solving.**
   
 ---
 
-## 💼 Experience
-
-### AI Engineering Intern — Centific
-**2026 – Present**
-
-Working on enterprise-scale AI platform engineering initiatives,
-supporting AI-first production systems and cognitive architecture
-workflows.
-
-- Contributing to AI system design and experimentation
-- Working on model evaluation and benchmarking pipelines
-- Exploring reliability and performance optimization for enterprise AI
-  applications
-- Building practical experience with production-oriented AI systems
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered RFP Discovery Platform
